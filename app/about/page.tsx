@@ -39,7 +39,7 @@ export default function AboutPage() {
                     <div className="max-w-4xl mx-auto text-center">
                         <h2 className="text-3xl font-bold text-brand-brown mb-8 uppercase tracking-wide inline-block border-b-2 border-brand-green pb-2">Who We Are</h2>
                         <p className="text-lg text-gray-700 leading-relaxed mb-6 font-medium">
-                            Welcome to <span className="font-bold text-brand-green">Smart Kitchen & Furnitures</span>. We are a premier provider of modular kitchen solutions and bespoke furniture designs. With a passion for innovation and quality, we transform ordinary spaces into extraordinary living experiences.
+                            Welcome to <span className="font-bold text-brand-green">Smart Kitchen Furniture</span>. We are a premier provider of modular kitchen solutions and bespoke furniture designs. With a passion for innovation and quality, we transform ordinary spaces into extraordinary living experiences.
                         </p>
                         <p className="text-lg text-gray-600 leading-relaxed">
                             Our journey began with a simple idea: to make luxury accessible and functional. Today, we stand proud as a trusted name in the industry, known for our uncompromising commitment to excellence and customer satisfaction.

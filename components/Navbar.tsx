@@ -30,7 +30,7 @@ export default function Navbar() {
                                 <div className="relative h-16 lg:h-20 w-auto group-hover:opacity-90 transition-opacity">
                                     <img
                                         src="/smart_kitchen_logo.png"
-                                        alt="Smart Kitchen & Furnitures Logo"
+                                        alt="Smart Kitchen Furniture Logo"
                                         className="h-full w-auto object-contain"
                                     />
                                 </div>

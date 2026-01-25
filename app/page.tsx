@@ -20,8 +20,8 @@ export default function Home() {
             Est. 2026
           </span>
           <h1 className="text-5xl sm:text-7xl md:text-8xl font-[family-name:var(--font-playfair)] text-white font-medium tracking-tight mb-8 leading-tight drop-shadow-lg">
-            Smart Life <br />
-            <span className="italic">Furnitures</span>
+            Smart Kitchen <br />
+            <span className="italic">Furniture</span>
           </h1>
           <p className="mt-6 text-xl text-gray-100 max-w-2xl mx-auto mb-12 font-light tracking-wide leading-relaxed text-balance">
             Expert craftsmanship for your home. We specialize in custom on-site fabrication of high-end Kitchen Trolleys and Modern Railings.

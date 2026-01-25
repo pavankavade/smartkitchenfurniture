@@ -9,7 +9,7 @@ export default function Footer() {
                 <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-16">
                     <div className="col-span-1 md:col-span-1">
                         <Link href="/" className="flex items-center gap-2 mb-6 group">
-                            <span className="font-serif text-2xl font-bold tracking-wide text-white group-hover:text-amber-500 transition">Smart Life <span className="text-amber-700">Furnitures</span></span>
+                            <span className="font-serif text-2xl font-bold tracking-wide text-white group-hover:text-amber-500 transition">Smart Kitchen <span className="text-amber-700">Furniture</span></span>
                         </Link>
                         <p className="text-sm leading-relaxed text-gray-400 mb-8">
                             Transforming spaces into sanctuaries with furniture that speaks the language of timeless elegance.
@@ -68,7 +68,7 @@ export default function Footer() {
                 </div>
 
                 <div className="border-t border-white/10 pt-8 flex flex-col md:flex-row justify-between items-center text-xs text-gray-500">
-                    <p>&copy; 2026 Smart Life Furnitures. All rights reserved.</p>
+                    <p>&copy; 2026 Smart Kitchen Furniture. All rights reserved.</p>
                     <div className="flex gap-6 mt-4 md:mt-0">
                         <a href="#" className="hover:text-white transition">Privacy Policy</a>
                         <a href="#" className="hover:text-white transition">Terms of Service</a>
