@@ -53,7 +53,7 @@ export default function Footer() {
                         <ul className="space-y-4 text-sm text-gray-400">
                             <li className="flex items-start gap-4">
                                 <i className="fa-solid fa-location-dot mt-1 text-amber-700"></i>
-                                <span>123 Design Avenue,<br />SoHo, New York 10012</span>
+                                <span>Kolhapur, Maharashtra, <br />India</span>
                             </li>
                             <li className="flex items-center gap-4">
                                 <i className="fa-solid fa-phone text-amber-700"></i>
